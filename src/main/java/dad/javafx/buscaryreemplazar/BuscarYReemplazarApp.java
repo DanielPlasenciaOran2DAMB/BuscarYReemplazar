@@ -43,11 +43,11 @@ public class BuscarYReemplazarApp extends Application {
 		ayudaButton = new Button("Ayuda");
 		ayudaButton.setMaxWidth(Double.MAX_VALUE);
 
-		mayusMinCheck = new CheckBox("Mayúsculas y minúsculas");
+		mayusMinCheck = new CheckBox("Mayï¿½sculas y minï¿½sculas");
 
-		expresionCheck = new CheckBox("Expresión regular");
+		expresionCheck = new CheckBox("Expresiï¿½n regular");
 
-		buscarAtrasCheck = new CheckBox("Buscar hacia atrás");
+		buscarAtrasCheck = new CheckBox("Buscar hacia atrï¿½s");
 
 		resaltarCheck = new CheckBox("Resaltar resultados");
 
